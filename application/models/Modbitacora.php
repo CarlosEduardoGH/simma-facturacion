@@ -1,4 +1,5 @@
 <?php
+
 class Modbitacora extends CI_Model
 {
 	private $idbitacora;
